@@ -1,5 +1,8 @@
 ## this is the second hw: sample yarn client
 
+
+##Just run `./run.sh` and ignore all below
+
 in order to build: `mvn package`
 
 
